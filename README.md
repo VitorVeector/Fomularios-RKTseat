@@ -16,10 +16,10 @@
 
 ## FORM
 
-- <form> elemento que ira defirnir um formulario
+- <form> Elemento que ira defirnir um formulario
 - Container estilo <section> <footer>
 
 ### ATRIBUTOS BASICOS
 
 - action
--method
+- method
